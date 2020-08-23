@@ -1,6 +1,6 @@
 # El Séptimo Círculo
 
-@Luciano Greppi
+@Luciano Greppi<br>
 #2020
 
 En 1945, Jorge Luis Borges y Adolfo Bioy Casares crearon la colección de libros policiales "El Séptimo Círculo". En ella se reunían los que para los dos escritores argentinos
