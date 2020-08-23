@@ -1,8 +1,5 @@
 # El Séptimo Círculo
 
-@Luciano Greppi<br>
-#2020
-
 En 1945, Jorge Luis Borges y Adolfo Bioy Casares crearon la colección de libros policiales "El Séptimo Círculo". En ella se reunían los que para los dos escritores argentinos
 eran las mejores novelas policiales de la época, principalmente de autores británicos o estadounidenses, salvo por unas pocas excepciones.<br>
 En el presente proyecto, se propone realizar una aplicación web que permita consultar los libros ingresados en la base de datos, ofreciendo no sólo el nombre de la novela y su autor,
@@ -22,3 +19,7 @@ en Java el patrón DAO con sus interfaces e implementaciones para la consulta de
 * Mejorar las vistas de las páginas JSP para hacerlas completamente funcionales y que tengan un diseño adecuado.<br>
 * Se evalúa la posibilidad de crear una API Rest con la información de todos los libros para que pueda ser consultada abiertamente.<br>
 <br>
+
+
+@Luciano Greppi<br>
+#2020
