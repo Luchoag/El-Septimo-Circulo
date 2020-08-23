@@ -20,6 +20,8 @@ en Java el patrón DAO con sus interfaces e implementaciones para la consulta de
 * Se evalúa la posibilidad de crear una API Rest con la información de todos los libros para que pueda ser consultada abiertamente.<br>
 <br>
 
+Las tecnologías que utiliza el proyecto son <b>Java Spring Boot, JPA y MySQL</b>.<br><br>
+
 
 @Luciano Greppi<br>
 #2020
