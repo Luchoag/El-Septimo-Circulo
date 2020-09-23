@@ -12,16 +12,20 @@ sino también su año de publicación, país de origen, y una breve descripción
 Actualmente se encuentra <b>en desarrollo</b>.<br>
 * Han sido creadas las base de datos con los 35 libros publicados en la colección en el año 2016 por La Nación (la colección completa original consta de 366 volúmenes) y diseñado
 en Java el patrón DAO con sus interfaces e implementaciones para la consulta de las tablas.<br>
+* El maquetado y diseño de la versión mobile de la web fue completado (imagen al final del Readme) usando HTML y CSS.<br>
 * Se crearon también páginas JSP básicas para mostrar esa información consultada en el localhost.<br>
+* API REST creada utilizando Spring Boot, Hibernate y MySQL.
 
 <b>Resta por hacer:</b><br>
-* Solucionar errores en los caracteres acentuados de la base de datos de libros.<br>
 * Mejorar las vistas de las páginas JSP para hacerlas completamente funcionales y que tengan un diseño adecuado.<br>
-* Se evalúa la posibilidad de crear una API Rest con la información de todos los libros para que pueda ser consultada abiertamente.<br>
+* Completar el maquetado de la web para hacerla full responsive.
+* Establecer la conexión completa entre el frontend y el backend del sitio. 
 <br>
 
-Las tecnologías que utiliza el proyecto son <b>Java Spring Boot, JPA y MySQL</b>.<br><br>
+Las tecnologías que utiliza el proyecto son <b>Java Spring Boot, JPA + Hibernate, MySQL, HTML y CSS3.</b>.<br><br>
 
+Vista mobile del sitio:<br>
+<img width=200 src="https://i.imgur.com/yRQGDUR.png"><br><br>
 
 @Luciano Greppi<br>
 #2020
